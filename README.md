@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Askari&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=miraclaers&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=fff" width="100%"/>
 
-### Full-Stack Engineer · Agentic AI Developer · Graphic & Brand Identity Designer
+### Full-Stack Developer · Agentic AI Developer · Database Engineer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=6C3BAA&center=true&vCenter=true&width=650&lines=Building+intelligent+software+%26+AI+automation;Designing+brand+identities+that+resonate;Founder+%40+NexuGem+Agency)](https://aliaskari.xyz)
 
@@ -20,15 +20,14 @@
 
 ## About Me
 
-I'm Ali Askari, an 18-year-old developer and designer based in Karachi, Pakistan. I work across two disciplines that most people keep separate: the systems-thinking world of full-stack development and agentic AI, and the visual, human-centered world of brand and graphic design. I believe the best software isn't just technically sound — it's thoughtfully designed.
+Senior Full Stack & AI Developer with 9+ years of professional experience building web applications, backend systems,
+databases, AI-powered software, and scalable application architectures. Experienced across the complete software development
+lifecycle, from requirements analysis and system architecture through development, integration, deployment, optimization, and
+long-term maintenance.
 
-I'm self-taught, having started coding at 17 and building projects before I fully understood how they worked. That same curiosity led me to found **NexuGem Agency**, a five-person digital studio delivering web development, brand design, and AI-powered solutions to clients across multiple countries.
-
-- 🔭 Currently building agentic AI systems, full-stack web apps, and brand identities at **NexuGem Agency**
-- 🌱 Focused on **Agentic AI**, **cloud architecture**, and **scalable systems**
-- 🎓 Lead Student & Mentor at **GIAIC** (Governor's Initiative for AI), mentoring peers in Python, web development, and AI fundamentals
-- 🏆 3rd Place, National Graphic Design Contest (Pakistan)
-- 🤝 Open to collaborating on AI-powered products and open-source projects
+Strong background in frontend development, backend engineering, database architecture, API development, cloud
+infrastructure, and AI/LLM integration. Comfortable developing complete software solutions independently as well as
+collaborating with professional development teams and international clients.
 
 <br/>
 
@@ -150,12 +149,16 @@ Full-featured quiz platform with multiple categories, four difficulty levels, an
 
 <br/>
 
-## Achievements
+## Experience
 
-- 🏆 **3rd Place** — National Graphic Design Contest, Pakistan (2026)
-- 🎖️ **Agentic AI Developer Certification** — GitHub (2026)
-- 🎓 **Lead Student & Mentor** — GIAIC, Governor's Initiative for AI (2024–2025)
-- 🚀 **Founder** — NexuGem Agency, a self-founded 5-person digital studio (2025)
+- 🏆  **Freelancer** (11/2024 – Present)
+      Full Stack Developer, AI Developer & Database Designer                         Remote
+- 🎖️  **Knowledge21 Co., Ltd.**   (06/2019 – 11/2024)
+      Full Stack Developer & AI Developer              Kanazawa, Ishikawa Prefecture, Japan
+- ⚡ **ITSector**     (09/2016 – 04/2019)
+      Backend Developer & Database Designer                               Bragança, Portugal
+- 🚀 **University Development Projects**    (12/2014 – 09/2016)
+      Web Developer                                                       Bragança, Portugal
 
 <br/>
 
