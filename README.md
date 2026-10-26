@@ -16,17 +16,17 @@ Web Developer                                                        Bragança, 
 
 🤗My skills🤗
 
-Programming: Python · JavaScript · TypeScript · Java · SQL · PHP
+   Programming: Python · JavaScript · TypeScript · Java · SQL · PHP
 
-Frontend: React · HTML5 · CSS3 · Responsive Web Development
+   Frontend: React · HTML5 · CSS3 · Responsive Web Development
 
-Backend: Node.js · REST APIs · GraphQL · Backend Architecture · Server-Side Development
+   Backend: Node.js · REST APIs · GraphQL · Backend Architecture · Server-Side Development
 
-Databases: PostgreSQL · MySQL · MongoDB · Database Design · Data Modeling · Query Optimization
+   Databases: PostgreSQL · MySQL · MongoDB · Database Design · Data Modeling · Query Optimization
 
-AI & Machine Learning: AI Application Development · AI APIs · Machine Learning Concepts
+   AI & Machine Learning: AI Application Development · AI APIs · Machine Learning Concepts
 
-Data Engineering: Data Processing · Data Modeling · ETL/ELT · Data Pipelines
+   Data Engineering: Data Processing · Data Modeling · ETL/ELT · Data Pipelines
 
 Cloud & Infrastructure: AWS · Amazon S3 · Docker · Cloud Application Architecture
 
