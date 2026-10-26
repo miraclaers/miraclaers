@@ -4,11 +4,6 @@
 
 ### Full-Stack Developer · Agentic AI Developer · Database Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=6C3BAA&center=true&vCenter=true&width=650&lines=Building+intelligent+software+%26+AI+automation;Designing+brand+identities+that+resonate;Founder+%40+NexuGem+Agency)](https://aliaskari.xyz)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=AliAskariGithub&color=6C3BAA&style=flat-square&label=Profile+Views)](https://github.com/AliAskariGithub)
-[![GitHub followers](https://img.shields.io/github/followers/AliAskariGithub?style=flat-square&color=6C3BAA&labelColor=1a1b27)](https://github.com/AliAskariGithub?tab=followers)
-
 </div>
 
 <br/>
