@@ -92,7 +92,7 @@ Interactive AI learning platform with a RAG-powered chatbot.
 ### 👔 Digital FTE — Autonomous AI Employee
 An always-on AI agent that monitors email, WhatsApp, and LinkedIn, drafts action plans from incoming messages, and executes approved actions under a dual-approval safety workflow.
 
-`Python` `Groq AI` `Llama-3.3` [`Source`](https://github.com/AliAskariGithub/Hackathon-0-AI-Personal-Employee)
+`Python` `Groq AI` `Llama-3.3` 
 
 </td>
 <td width="50%" valign="top">
@@ -110,7 +110,7 @@ Marketing site for my digital agency, covering web development, branding, and SE
 ### 🧠 Python MCQs Platform
 Interactive quiz platform with multiple difficulty levels, timed rounds, and PDF result generation.
 
-`HTML` `CSS` `JavaScript` · [`Live`](https://pyquizmaster-blush.vercel.app) · [`Code`](https://github.com/AliAskariGithub/Python_MCQs_Website)
+`HTML` `CSS` `JavaScript`
 
 </td>
 <td width="50%" valign="top">
@@ -138,43 +138,3 @@ Full-featured quiz platform with multiple categories, four difficulty levels, an
 
 <br/>
 
-## GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AliAskariGithub&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C3BAA&icon_color=6C3BAA&text_color=fff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=AliAskariGithub&theme=radical&hide_border=true&background=0D1117&ring=6C3BAA&fire=6C3BAA&currStreakLabel=6C3BAA" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAskariGithub&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C3BAA&text_color=fff" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AliAskariGithub&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C3BAA&line=6C3BAA&point=fff" />
-
-### Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=AliAskariGithub&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
-
-</div>
-
-<br/>
-
-## Let's Connect
-
-I'm always open to discussing new projects, agentic AI systems, or brand design work.
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-6C3BAA?style=for-the-badge)](https://aliaskari.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-askari-dev)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Syed_Ali_Askari)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedaliaskrizaidi1@gmail.com)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-**Made with care by Ali Askari** · Karachi, Pakistan
-
-</div>
