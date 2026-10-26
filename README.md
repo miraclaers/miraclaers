@@ -13,7 +13,8 @@ Backend Developer & Database Designer                                Bragança, 
 🤩University Development Projects                                      12/2014 – 09/2016
 Web Developer                                                        Bragança, Portugal
 
-🤗My skills:
+
+🤗My skills🤗
 
 Programming: Python · JavaScript · TypeScript · Java · SQL · PHP
 
