@@ -124,20 +124,6 @@ Full-featured quiz platform with multiple categories, four difficulty levels, an
 </tr>
 </table>
 
-<br/>
-
-## Experience
-
-| Role | Organization | Period |
-|---|---|---|
-| Full-Stack Developer & Designer | Freelance | 2024 – Present |
-| Brand Designer & Visual Creator | Freelance | 2024 – Present |
-| Founder | NexuGem Agency | 2025 – Present |
-| Lead Student & Mentor | GIAIC (Governor's Initiative for AI) | 2024 – 2025 |
-
-**NexuGem Agency** — Founded in 2025, NexuGem is a five-person digital studio serving clients across retail, tech education, and startups in three countries, delivering web development, brand design, digital marketing, SEO, and video editing. [Visit the agency →](https://www.nexugemagency.com)
-
-<br/>
 
 ## Experience
 
