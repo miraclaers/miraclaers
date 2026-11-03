@@ -77,4 +77,3 @@ collaborating with professional development teams and international clients.
       Web Developer                                                       Bragança, Portugal
 
 <br/>
-
